@@ -18,7 +18,7 @@ function App() {
 			number theory and machine learning. 
 			</p>
 			{/* Skills*/}
-
+			<h1> Skills</h1>
 			<img src="" alt="" />
 			{/* Timeline*/}
 			<TimelineSection/>
