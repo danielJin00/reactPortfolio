@@ -2,6 +2,7 @@ import "./App.css";
 import Header from "./components/header/Header";
 import profilePicture from './assets/IMG/JinProfile.jpg'
 import TimelineSection from "./components/timeline/Timeline";
+
 function App() {
     return (
         <div>
@@ -19,8 +20,22 @@ function App() {
 			</p>
 			{/* Skills*/}
 			<h1> Skills</h1>
+
+			<div className="languages">
+				<img src="" alt="" />
+			</div>
+
+			<div className="frameworks">
+
+			</div>
+
+			<div className="database">
+
+			</div>
+
 			<img src="" alt="" />
 			{/* Timeline*/}
+			
 			<TimelineSection/>
 
         </div>
