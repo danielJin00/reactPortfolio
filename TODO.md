@@ -1,3 +1,5 @@
+MUI script to not load all files
+
 sections : 
 - header
     . add icon
